@@ -1,0 +1,17 @@
+Create these measures after importing retail_sales.csv into Power BI. If your table name differs, replace 'retail_sales'.
+
+Total Revenue = SUM(retail_sales[Revenue])
+
+Total Profit = SUM(retail_sales[Profit])
+
+Total Orders = DISTINCTCOUNT(retail_sales[Order_ID])
+
+Units Sold = SUM(retail_sales[Quantity])
+
+Profit Margin % = DIVIDE([Total Profit], [Total Revenue], 0)
+
+Average Order Value = DIVIDE([Total Revenue], [Total Orders], 0)
+
+Revenue YTD = TOTALYTD([Total Revenue], retail_sales[Order_Date])
+
+Profit YTD = TOTALYTD([Total Profit], retail_sales[Order_Date])

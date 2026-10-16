@@ -1,0 +1,301 @@
+Order_ID,Order_Date,City,Sales_Channel,Product,Category,Quantity,Unit_Price,Discount_Rate,Revenue,Cost,Profit
+ORD0135,2025-01-01,Kolkata,Marketplace,Headphones,Electronics,4,2200,0.15,7480.0,4400,3080.0
+ORD0300,2025-01-02,Kolkata,Retail Store,Notebook,Stationery,4,120,0.0,480.0,180,300.0
+ORD0039,2025-01-04,Mumbai,Marketplace,Backpack,Accessories,3,1800,0.05,5130.0,2550,2580.0
+ORD0120,2025-01-05,Jaipur,Online,Backpack,Accessories,3,1800,0.1,4860.0,2550,2310.0
+ORD0130,2025-01-05,Pune,Marketplace,Pen Pack,Stationery,2,180,0.05,342.0,140,202.0
+ORD0031,2025-01-06,Bengaluru,Retail Store,Desk Chair,Furniture,4,7500,0.15,25500.0,19200,6300.0
+ORD0280,2025-01-06,Mumbai,Marketplace,Desk Chair,Furniture,2,7500,0.15,12750.0,9600,3150.0
+ORD0033,2025-01-07,Kolkata,Retail Store,Notebook,Stationery,1,120,0.0,120.0,45,75.0
+ORD0238,2025-01-08,Mumbai,Online,Mouse,Electronics,2,900,0.0,1800.0,840,960.0
+ORD0146,2025-01-09,Pune,Retail Store,Desk Chair,Furniture,1,7500,0.05,7125.0,4800,2325.0
+ORD0291,2025-01-09,Bengaluru,Online,Mouse,Electronics,1,900,0.15,765.0,420,345.0
+ORD0272,2025-01-12,Hyderabad,Marketplace,Headphones,Electronics,3,2200,0.05,6270.0,3300,2970.0
+ORD0123,2025-01-13,Delhi,Retail Store,Water Bottle,Home,1,650,0.1,585.0,270,315.0
+ORD0036,2025-01-14,Delhi,Retail Store,Water Bottle,Home,2,650,0.0,1300.0,540,760.0
+ORD0027,2025-01-15,Delhi,Retail Store,Mouse,Electronics,2,900,0.1,1620.0,840,780.0
+ORD0116,2025-01-16,Mumbai,Retail Store,Desk Chair,Furniture,3,7500,0.0,22500.0,14400,8100.0
+ORD0070,2025-01-16,Mumbai,Marketplace,Backpack,Accessories,1,1800,0.15,1530.0,850,680.0
+ORD0105,2025-01-17,Kolkata,Marketplace,Water Bottle,Home,2,650,0.05,1235.0,540,695.0
+ORD0040,2025-01-18,Jaipur,Online,Notebook,Stationery,1,120,0.0,120.0,45,75.0
+ORD0236,2025-01-20,Bengaluru,Retail Store,Water Bottle,Home,2,650,0.0,1300.0,540,760.0
+ORD0148,2025-01-20,Chennai,Retail Store,Mouse,Electronics,1,900,0.15,765.0,420,345.0
+ORD0227,2025-01-21,Mumbai,Online,Headphones,Electronics,2,2200,0.0,4400.0,2200,2200.0
+ORD0260,2025-01-23,Jaipur,Online,Phone,Electronics,1,28000,0.1,25200.0,21000,4200.0
+ORD0286,2025-01-24,Hyderabad,Marketplace,Headphones,Electronics,2,2200,0.1,3960.0,2200,1760.0
+ORD0256,2025-01-24,Pune,Marketplace,Phone,Electronics,2,28000,0.0,56000.0,42000,14000.0
+ORD0015,2025-01-26,Kolkata,Marketplace,Pen Pack,Stationery,1,180,0.05,171.0,70,101.0
+ORD0068,2025-01-28,Pune,Marketplace,Headphones,Electronics,4,2200,0.15,7480.0,4400,3080.0
+ORD0016,2025-01-28,Kolkata,Online,Desk Chair,Furniture,1,7500,0.0,7500.0,4800,2700.0
+ORD0223,2025-01-29,Delhi,Retail Store,Laptop,Electronics,2,52000,0.1,93600.0,78000,15600.0
+ORD0172,2025-01-29,Delhi,Marketplace,Notebook,Stationery,1,120,0.05,114.0,45,69.0
+ORD0071,2025-01-29,Kolkata,Online,Notebook,Stationery,1,120,0.05,114.0,45,69.0
+ORD0106,2025-01-30,Bengaluru,Retail Store,Laptop,Electronics,1,52000,0.15,44200.0,39000,5200.0
+ORD0225,2025-02-01,Delhi,Retail Store,Backpack,Accessories,5,1800,0.1,8100.0,4250,3850.0
+ORD0259,2025-02-01,Mumbai,Retail Store,Pen Pack,Stationery,3,180,0.05,513.0,210,303.0
+ORD0119,2025-02-02,Chennai,Marketplace,Water Bottle,Home,1,650,0.1,585.0,270,315.0
+ORD0221,2025-02-02,Delhi,Retail Store,Notebook,Stationery,1,120,0.0,120.0,45,75.0
+ORD0165,2025-02-04,Hyderabad,Retail Store,Backpack,Accessories,1,1800,0.05,1710.0,850,860.0
+ORD0201,2025-02-08,Kolkata,Retail Store,Desk Chair,Furniture,2,7500,0.05,14250.0,9600,4650.0
+ORD0050,2025-02-09,Chennai,Online,Coffee Mug,Home,1,350,0.15,297.5,140,157.5
+ORD0154,2025-02-10,Hyderabad,Online,Coffee Mug,Home,3,350,0.05,997.5,420,577.5
+ORD0007,2025-02-11,Bengaluru,Marketplace,Backpack,Accessories,4,1800,0.1,6480.0,3400,3080.0
+ORD0214,2025-02-11,Hyderabad,Online,Desk Chair,Furniture,3,7500,0.15,19125.0,14400,4725.0
+ORD0044,2025-02-12,Bengaluru,Marketplace,Coffee Mug,Home,2,350,0.1,630.0,280,350.0
+ORD0062,2025-02-14,Chennai,Online,Phone,Electronics,1,28000,0.1,25200.0,21000,4200.0
+ORD0142,2025-02-14,Chennai,Retail Store,Water Bottle,Home,4,650,0.15,2210.0,1080,1130.0
+ORD0163,2025-02-16,Delhi,Online,Pen Pack,Stationery,2,180,0.05,342.0,140,202.0
+ORD0203,2025-02-16,Mumbai,Marketplace,Pen Pack,Stationery,2,180,0.1,324.0,140,184.0
+ORD0014,2025-02-18,Jaipur,Online,Mouse,Electronics,2,900,0.05,1710.0,840,870.0
+ORD0065,2025-02-20,Mumbai,Online,Coffee Mug,Home,4,350,0.1,1260.0,560,700.0
+ORD0054,2025-02-23,Jaipur,Marketplace,Notebook,Stationery,1,120,0.0,120.0,45,75.0
+ORD0267,2025-02-25,Bengaluru,Retail Store,Headphones,Electronics,1,2200,0.0,2200.0,1100,1100.0
+ORD0019,2025-02-26,Pune,Retail Store,Desk Chair,Furniture,1,7500,0.15,6375.0,4800,1575.0
+ORD0035,2025-02-27,Hyderabad,Online,Water Bottle,Home,3,650,0.05,1852.5,810,1042.5
+ORD0074,2025-02-28,Chennai,Online,Pen Pack,Stationery,2,180,0.0,360.0,140,220.0
+ORD0103,2025-02-28,Hyderabad,Online,Laptop,Electronics,1,52000,0.05,49400.0,39000,10400.0
+ORD0037,2025-03-04,Delhi,Online,Coffee Mug,Home,5,350,0.15,1487.5,700,787.5
+ORD0197,2025-03-06,Hyderabad,Online,Notebook,Stationery,1,120,0.05,114.0,45,69.0
+ORD0292,2025-03-06,Hyderabad,Online,Headphones,Electronics,4,2200,0.0,8800.0,4400,4400.0
+ORD0048,2025-03-07,Pune,Marketplace,Notebook,Stationery,4,120,0.1,432.0,180,252.0
+ORD0234,2025-03-11,Mumbai,Marketplace,Phone,Electronics,4,28000,0.0,112000.0,84000,28000.0
+ORD0141,2025-03-11,Pune,Online,Pen Pack,Stationery,2,180,0.0,360.0,140,220.0
+ORD0095,2025-03-12,Delhi,Online,Water Bottle,Home,2,650,0.1,1170.0,540,630.0
+ORD0078,2025-03-13,Pune,Marketplace,Water Bottle,Home,1,650,0.05,617.5,270,347.5
+ORD0222,2025-03-13,Chennai,Retail Store,Backpack,Accessories,1,1800,0.1,1620.0,850,770.0
+ORD0249,2025-03-13,Pune,Marketplace,Water Bottle,Home,5,650,0.1,2925.0,1350,1575.0
+ORD0182,2025-03-17,Mumbai,Retail Store,Pen Pack,Stationery,4,180,0.0,720.0,280,440.0
+ORD0098,2025-03-18,Jaipur,Retail Store,Water Bottle,Home,1,650,0.1,585.0,270,315.0
+ORD0239,2025-03-18,Pune,Marketplace,Water Bottle,Home,3,650,0.0,1950.0,810,1140.0
+ORD0047,2025-03-19,Kolkata,Marketplace,Desk Chair,Furniture,2,7500,0.05,14250.0,9600,4650.0
+ORD0132,2025-03-21,Kolkata,Marketplace,Notebook,Stationery,1,120,0.0,120.0,45,75.0
+ORD0114,2025-03-22,Jaipur,Online,Water Bottle,Home,3,650,0.1,1755.0,810,945.0
+ORD0171,2025-03-23,Jaipur,Retail Store,Phone,Electronics,4,28000,0.0,112000.0,84000,28000.0
+ORD0232,2025-03-24,Mumbai,Retail Store,Desk Chair,Furniture,3,7500,0.1,20250.0,14400,5850.0
+ORD0102,2025-03-24,Delhi,Retail Store,Backpack,Accessories,1,1800,0.0,1800.0,850,950.0
+ORD0289,2025-03-25,Chennai,Online,Coffee Mug,Home,3,350,0.0,1050.0,420,630.0
+ORD0211,2025-03-26,Delhi,Retail Store,Notebook,Stationery,1,120,0.15,102.0,45,57.0
+ORD0183,2025-03-26,Chennai,Marketplace,Phone,Electronics,1,28000,0.05,26600.0,21000,5600.0
+ORD0228,2025-03-27,Bengaluru,Online,Headphones,Electronics,4,2200,0.1,7920.0,4400,3520.0
+ORD0110,2025-03-28,Kolkata,Marketplace,Mouse,Electronics,2,900,0.05,1710.0,840,870.0
+ORD0156,2025-03-28,Mumbai,Retail Store,Coffee Mug,Home,2,350,0.0,700.0,280,420.0
+ORD0281,2025-03-29,Mumbai,Online,Notebook,Stationery,1,120,0.0,120.0,45,75.0
+ORD0051,2025-03-29,Pune,Retail Store,Headphones,Electronics,4,2200,0.0,8800.0,4400,4400.0
+ORD0255,2025-03-30,Chennai,Online,Water Bottle,Home,2,650,0.05,1235.0,540,695.0
+ORD0096,2025-03-30,Mumbai,Retail Store,Coffee Mug,Home,1,350,0.1,315.0,140,175.0
+ORD0093,2025-03-30,Hyderabad,Retail Store,Pen Pack,Stationery,2,180,0.05,342.0,140,202.0
+ORD0150,2025-03-30,Mumbai,Online,Desk Chair,Furniture,4,7500,0.0,30000.0,19200,10800.0
+ORD0118,2025-03-31,Pune,Retail Store,Pen Pack,Stationery,2,180,0.05,342.0,140,202.0
+ORD0254,2025-04-01,Kolkata,Marketplace,Mouse,Electronics,1,900,0.05,855.0,420,435.0
+ORD0049,2025-04-08,Jaipur,Retail Store,Pen Pack,Stationery,1,180,0.0,180.0,70,110.0
+ORD0097,2025-04-09,Kolkata,Retail Store,Desk Chair,Furniture,1,7500,0.0,7500.0,4800,2700.0
+ORD0139,2025-04-09,Hyderabad,Retail Store,Phone,Electronics,2,28000,0.15,47600.0,42000,5600.0
+ORD0005,2025-04-11,Hyderabad,Retail Store,Phone,Electronics,4,28000,0.15,95200.0,84000,11200.0
+ORD0273,2025-04-11,Mumbai,Marketplace,Mouse,Electronics,2,900,0.15,1530.0,840,690.0
+ORD0166,2025-04-13,Hyderabad,Marketplace,Notebook,Stationery,4,120,0.1,432.0,180,252.0
+ORD0043,2025-04-13,Bengaluru,Retail Store,Water Bottle,Home,1,650,0.0,650.0,270,380.0
+ORD0129,2025-04-13,Hyderabad,Marketplace,Notebook,Stationery,2,120,0.05,228.0,90,138.0
+ORD0134,2025-04-14,Pune,Retail Store,Desk Chair,Furniture,3,7500,0.05,21375.0,14400,6975.0
+ORD0268,2025-04-15,Hyderabad,Retail Store,Notebook,Stationery,1,120,0.15,102.0,45,57.0
+ORD0250,2025-04-17,Bengaluru,Online,Coffee Mug,Home,5,350,0.15,1487.5,700,787.5
+ORD0121,2025-04-19,Jaipur,Retail Store,Laptop,Electronics,2,52000,0.0,104000.0,78000,26000.0
+ORD0188,2025-04-19,Mumbai,Retail Store,Backpack,Accessories,2,1800,0.0,3600.0,1700,1900.0
+ORD0059,2025-04-20,Hyderabad,Online,Desk Chair,Furniture,1,7500,0.05,7125.0,4800,2325.0
+ORD0261,2025-04-21,Bengaluru,Marketplace,Phone,Electronics,1,28000,0.0,28000.0,21000,7000.0
+ORD0295,2025-04-23,Hyderabad,Marketplace,Water Bottle,Home,1,650,0.0,650.0,270,380.0
+ORD0026,2025-04-28,Jaipur,Marketplace,Water Bottle,Home,1,650,0.0,650.0,270,380.0
+ORD0190,2025-04-29,Chennai,Online,Coffee Mug,Home,1,350,0.0,350.0,140,210.0
+ORD0224,2025-04-29,Delhi,Online,Desk Chair,Furniture,1,7500,0.0,7500.0,4800,2700.0
+ORD0109,2025-04-30,Chennai,Online,Mouse,Electronics,2,900,0.05,1710.0,840,870.0
+ORD0241,2025-05-01,Pune,Retail Store,Notebook,Stationery,4,120,0.15,408.0,180,228.0
+ORD0149,2025-05-02,Delhi,Online,Phone,Electronics,1,28000,0.1,25200.0,21000,4200.0
+ORD0246,2025-05-05,Chennai,Online,Phone,Electronics,2,28000,0.1,50400.0,42000,8400.0
+ORD0266,2025-05-07,Chennai,Retail Store,Headphones,Electronics,2,2200,0.0,4400.0,2200,2200.0
+ORD0161,2025-05-07,Delhi,Online,Laptop,Electronics,1,52000,0.0,52000.0,39000,13000.0
+ORD0293,2025-05-07,Delhi,Online,Mouse,Electronics,3,900,0.0,2700.0,1260,1440.0
+ORD0181,2025-05-09,Jaipur,Online,Backpack,Accessories,1,1800,0.1,1620.0,850,770.0
+ORD0226,2025-05-10,Pune,Marketplace,Coffee Mug,Home,3,350,0.05,997.5,420,577.5
+ORD0276,2025-05-10,Chennai,Online,Water Bottle,Home,4,650,0.15,2210.0,1080,1130.0
+ORD0042,2025-05-11,Pune,Marketplace,Desk Chair,Furniture,1,7500,0.1,6750.0,4800,1950.0
+ORD0067,2025-05-12,Pune,Retail Store,Phone,Electronics,1,28000,0.0,28000.0,21000,7000.0
+ORD0090,2025-05-13,Chennai,Retail Store,Laptop,Electronics,4,52000,0.05,197600.0,156000,41600.0
+ORD0173,2025-05-14,Bengaluru,Marketplace,Mouse,Electronics,2,900,0.15,1530.0,840,690.0
+ORD0215,2025-05-15,Pune,Online,Mouse,Electronics,2,900,0.15,1530.0,840,690.0
+ORD0206,2025-05-16,Pune,Marketplace,Pen Pack,Stationery,4,180,0.0,720.0,280,440.0
+ORD0023,2025-05-16,Delhi,Marketplace,Mouse,Electronics,1,900,0.05,855.0,420,435.0
+ORD0012,2025-05-17,Bengaluru,Retail Store,Headphones,Electronics,3,2200,0.0,6600.0,3300,3300.0
+ORD0269,2025-05-17,Bengaluru,Online,Laptop,Electronics,1,52000,0.0,52000.0,39000,13000.0
+ORD0244,2025-05-20,Hyderabad,Online,Laptop,Electronics,1,52000,0.15,44200.0,39000,5200.0
+ORD0158,2025-05-23,Bengaluru,Online,Laptop,Electronics,1,52000,0.1,46800.0,39000,7800.0
+ORD0287,2025-05-23,Bengaluru,Online,Laptop,Electronics,2,52000,0.1,93600.0,78000,15600.0
+ORD0046,2025-05-25,Bengaluru,Marketplace,Coffee Mug,Home,1,350,0.0,350.0,140,210.0
+ORD0200,2025-05-29,Bengaluru,Retail Store,Headphones,Electronics,1,2200,0.0,2200.0,1100,1100.0
+ORD0144,2025-06-02,Bengaluru,Online,Notebook,Stationery,5,120,0.05,570.0,225,345.0
+ORD0111,2025-06-08,Jaipur,Online,Laptop,Electronics,3,52000,0.15,132600.0,117000,15600.0
+ORD0069,2025-06-09,Delhi,Marketplace,Coffee Mug,Home,2,350,0.15,595.0,280,315.0
+ORD0021,2025-06-09,Kolkata,Online,Notebook,Stationery,2,120,0.1,216.0,90,126.0
+ORD0029,2025-06-10,Pune,Retail Store,Pen Pack,Stationery,1,180,0.0,180.0,70,110.0
+ORD0020,2025-06-11,Mumbai,Marketplace,Laptop,Electronics,1,52000,0.1,46800.0,39000,7800.0
+ORD0128,2025-06-11,Jaipur,Online,Headphones,Electronics,2,2200,0.15,3740.0,2200,1540.0
+ORD0179,2025-06-11,Delhi,Retail Store,Laptop,Electronics,1,52000,0.1,46800.0,39000,7800.0
+ORD0237,2025-06-11,Mumbai,Marketplace,Water Bottle,Home,2,650,0.0,1300.0,540,760.0
+ORD0195,2025-06-11,Delhi,Retail Store,Water Bottle,Home,4,650,0.0,2600.0,1080,1520.0
+ORD0294,2025-06-11,Jaipur,Online,Laptop,Electronics,1,52000,0.0,52000.0,39000,13000.0
+ORD0270,2025-06-11,Delhi,Online,Desk Chair,Furniture,5,7500,0.1,33750.0,24000,9750.0
+ORD0155,2025-06-14,Delhi,Online,Phone,Electronics,3,28000,0.1,75600.0,63000,12600.0
+ORD0262,2025-06-14,Jaipur,Online,Desk Chair,Furniture,1,7500,0.15,6375.0,4800,1575.0
+ORD0112,2025-06-17,Mumbai,Online,Laptop,Electronics,1,52000,0.05,49400.0,39000,10400.0
+ORD0034,2025-06-18,Delhi,Online,Desk Chair,Furniture,1,7500,0.0,7500.0,4800,2700.0
+ORD0193,2025-06-18,Bengaluru,Marketplace,Desk Chair,Furniture,4,7500,0.0,30000.0,19200,10800.0
+ORD0073,2025-06-18,Delhi,Marketplace,Water Bottle,Home,1,650,0.0,650.0,270,380.0
+ORD0079,2025-06-19,Chennai,Online,Backpack,Accessories,1,1800,0.0,1800.0,850,950.0
+ORD0108,2025-06-20,Jaipur,Retail Store,Phone,Electronics,4,28000,0.05,106400.0,84000,22400.0
+ORD0143,2025-06-20,Hyderabad,Online,Mouse,Electronics,1,900,0.15,765.0,420,345.0
+ORD0209,2025-06-20,Jaipur,Marketplace,Backpack,Accessories,1,1800,0.15,1530.0,850,680.0
+ORD0263,2025-06-24,Jaipur,Online,Desk Chair,Furniture,2,7500,0.15,12750.0,9600,3150.0
+ORD0284,2025-06-30,Bengaluru,Marketplace,Notebook,Stationery,2,120,0.1,216.0,90,126.0
+ORD0277,2025-06-30,Mumbai,Marketplace,Headphones,Electronics,2,2200,0.15,3740.0,2200,1540.0
+ORD0030,2025-07-02,Mumbai,Marketplace,Water Bottle,Home,2,650,0.15,1105.0,540,565.0
+ORD0113,2025-07-05,Mumbai,Retail Store,Mouse,Electronics,1,900,0.0,900.0,420,480.0
+ORD0264,2025-07-06,Chennai,Marketplace,Desk Chair,Furniture,2,7500,0.1,13500.0,9600,3900.0
+ORD0245,2025-07-06,Chennai,Online,Backpack,Accessories,2,1800,0.1,3240.0,1700,1540.0
+ORD0258,2025-07-09,Pune,Marketplace,Backpack,Accessories,1,1800,0.1,1620.0,850,770.0
+ORD0147,2025-07-10,Bengaluru,Online,Coffee Mug,Home,2,350,0.05,665.0,280,385.0
+ORD0010,2025-07-11,Hyderabad,Online,Mouse,Electronics,3,900,0.1,2430.0,1260,1170.0
+ORD0187,2025-07-13,Pune,Online,Notebook,Stationery,2,120,0.0,240.0,90,150.0
+ORD0003,2025-07-16,Jaipur,Marketplace,Coffee Mug,Home,1,350,0.15,297.5,140,157.5
+ORD0053,2025-07-16,Bengaluru,Retail Store,Pen Pack,Stationery,4,180,0.15,612.0,280,332.0
+ORD0064,2025-07-17,Delhi,Retail Store,Desk Chair,Furniture,4,7500,0.1,27000.0,19200,7800.0
+ORD0194,2025-07-19,Hyderabad,Marketplace,Water Bottle,Home,3,650,0.0,1950.0,810,1140.0
+ORD0204,2025-07-22,Pune,Retail Store,Notebook,Stationery,2,120,0.15,204.0,90,114.0
+ORD0025,2025-07-28,Kolkata,Online,Backpack,Accessories,2,1800,0.0,3600.0,1700,1900.0
+ORD0008,2025-07-29,Chennai,Retail Store,Backpack,Accessories,4,1800,0.0,7200.0,3400,3800.0
+ORD0242,2025-07-30,Hyderabad,Retail Store,Coffee Mug,Home,2,350,0.0,700.0,280,420.0
+ORD0229,2025-07-30,Delhi,Online,Coffee Mug,Home,1,350,0.0,350.0,140,210.0
+ORD0153,2025-08-01,Pune,Retail Store,Mouse,Electronics,3,900,0.0,2700.0,1260,1440.0
+ORD0230,2025-08-01,Mumbai,Marketplace,Mouse,Electronics,2,900,0.15,1530.0,840,690.0
+ORD0084,2025-08-03,Delhi,Retail Store,Headphones,Electronics,1,2200,0.1,1980.0,1100,880.0
+ORD0180,2025-08-08,Mumbai,Online,Coffee Mug,Home,2,350,0.05,665.0,280,385.0
+ORD0290,2025-08-08,Pune,Online,Laptop,Electronics,2,52000,0.15,88400.0,78000,10400.0
+ORD0189,2025-08-11,Pune,Retail Store,Coffee Mug,Home,1,350,0.0,350.0,140,210.0
+ORD0055,2025-08-12,Pune,Retail Store,Coffee Mug,Home,1,350,0.0,350.0,140,210.0
+ORD0247,2025-08-12,Chennai,Online,Pen Pack,Stationery,1,180,0.15,153.0,70,83.0
+ORD0251,2025-08-12,Bengaluru,Marketplace,Phone,Electronics,3,28000,0.15,71400.0,63000,8400.0
+ORD0115,2025-08-14,Hyderabad,Retail Store,Water Bottle,Home,5,650,0.15,2762.5,1350,1412.5
+ORD0218,2025-08-14,Delhi,Online,Mouse,Electronics,5,900,0.0,4500.0,2100,2400.0
+ORD0208,2025-08-14,Hyderabad,Online,Laptop,Electronics,2,52000,0.15,88400.0,78000,10400.0
+ORD0282,2025-08-17,Bengaluru,Retail Store,Mouse,Electronics,3,900,0.0,2700.0,1260,1440.0
+ORD0101,2025-08-19,Kolkata,Retail Store,Notebook,Stationery,2,120,0.0,240.0,90,150.0
+ORD0168,2025-08-22,Chennai,Online,Water Bottle,Home,2,650,0.0,1300.0,540,760.0
+ORD0274,2025-08-22,Delhi,Online,Water Bottle,Home,5,650,0.0,3250.0,1350,1900.0
+ORD0081,2025-08-24,Kolkata,Retail Store,Laptop,Electronics,4,52000,0.0,208000.0,156000,52000.0
+ORD0285,2025-08-25,Hyderabad,Marketplace,Laptop,Electronics,1,52000,0.1,46800.0,39000,7800.0
+ORD0052,2025-08-25,Pune,Retail Store,Pen Pack,Stationery,1,180,0.0,180.0,70,110.0
+ORD0186,2025-08-25,Kolkata,Online,Backpack,Accessories,4,1800,0.1,6480.0,3400,3080.0
+ORD0032,2025-08-26,Kolkata,Retail Store,Water Bottle,Home,4,650,0.0,2600.0,1080,1520.0
+ORD0297,2025-08-27,Pune,Marketplace,Water Bottle,Home,2,650,0.0,1300.0,540,760.0
+ORD0192,2025-09-01,Pune,Marketplace,Pen Pack,Stationery,2,180,0.05,342.0,140,202.0
+ORD0240,2025-09-02,Hyderabad,Retail Store,Phone,Electronics,2,28000,0.05,53200.0,42000,11200.0
+ORD0164,2025-09-03,Bengaluru,Retail Store,Mouse,Electronics,5,900,0.0,4500.0,2100,2400.0
+ORD0205,2025-09-05,Chennai,Retail Store,Headphones,Electronics,2,2200,0.05,4180.0,2200,1980.0
+ORD0202,2025-09-05,Delhi,Online,Headphones,Electronics,2,2200,0.0,4400.0,2200,2200.0
+ORD0296,2025-09-06,Bengaluru,Marketplace,Mouse,Electronics,1,900,0.0,900.0,420,480.0
+ORD0279,2025-09-06,Chennai,Marketplace,Headphones,Electronics,2,2200,0.05,4180.0,2200,1980.0
+ORD0024,2025-09-07,Hyderabad,Marketplace,Mouse,Electronics,1,900,0.1,810.0,420,390.0
+ORD0212,2025-09-08,Pune,Retail Store,Mouse,Electronics,3,900,0.05,2565.0,1260,1305.0
+ORD0066,2025-09-12,Hyderabad,Online,Laptop,Electronics,1,52000,0.0,52000.0,39000,13000.0
+ORD0176,2025-09-12,Mumbai,Retail Store,Laptop,Electronics,2,52000,0.0,104000.0,78000,26000.0
+ORD0298,2025-09-13,Kolkata,Online,Desk Chair,Furniture,1,7500,0.0,7500.0,4800,2700.0
+ORD0100,2025-09-13,Pune,Retail Store,Desk Chair,Furniture,1,7500,0.05,7125.0,4800,2325.0
+ORD0072,2025-09-14,Kolkata,Retail Store,Headphones,Electronics,1,2200,0.05,2090.0,1100,990.0
+ORD0061,2025-09-14,Kolkata,Marketplace,Phone,Electronics,4,28000,0.1,100800.0,84000,16800.0
+ORD0086,2025-09-14,Jaipur,Online,Coffee Mug,Home,2,350,0.0,700.0,280,420.0
+ORD0207,2025-09-16,Delhi,Retail Store,Laptop,Electronics,1,52000,0.1,46800.0,39000,7800.0
+ORD0104,2025-09-17,Delhi,Retail Store,Phone,Electronics,1,28000,0.15,23800.0,21000,2800.0
+ORD0152,2025-09-19,Hyderabad,Retail Store,Phone,Electronics,1,28000,0.0,28000.0,21000,7000.0
+ORD0122,2025-09-19,Delhi,Online,Pen Pack,Stationery,3,180,0.0,540.0,210,330.0
+ORD0278,2025-09-20,Delhi,Online,Coffee Mug,Home,2,350,0.15,595.0,280,315.0
+ORD0085,2025-09-21,Hyderabad,Marketplace,Coffee Mug,Home,2,350,0.05,665.0,280,385.0
+ORD0210,2025-09-21,Jaipur,Retail Store,Desk Chair,Furniture,2,7500,0.05,14250.0,9600,4650.0
+ORD0217,2025-09-22,Jaipur,Marketplace,Headphones,Electronics,2,2200,0.0,4400.0,2200,2200.0
+ORD0151,2025-09-22,Hyderabad,Online,Coffee Mug,Home,1,350,0.0,350.0,140,210.0
+ORD0216,2025-09-23,Kolkata,Online,Desk Chair,Furniture,3,7500,0.0,22500.0,14400,8100.0
+ORD0001,2025-09-25,Pune,Online,Coffee Mug,Home,3,350,0.05,997.5,420,577.5
+ORD0233,2025-09-27,Mumbai,Retail Store,Backpack,Accessories,3,1800,0.1,4860.0,2550,2310.0
+ORD0157,2025-09-27,Jaipur,Retail Store,Coffee Mug,Home,3,350,0.15,892.5,420,472.5
+ORD0088,2025-09-29,Jaipur,Retail Store,Water Bottle,Home,1,650,0.1,585.0,270,315.0
+ORD0126,2025-09-30,Delhi,Marketplace,Laptop,Electronics,1,52000,0.05,49400.0,39000,10400.0
+ORD0178,2025-10-01,Chennai,Retail Store,Water Bottle,Home,4,650,0.0,2600.0,1080,1520.0
+ORD0038,2025-10-03,Chennai,Retail Store,Notebook,Stationery,1,120,0.05,114.0,45,69.0
+ORD0041,2025-10-03,Kolkata,Online,Desk Chair,Furniture,4,7500,0.05,28500.0,19200,9300.0
+ORD0275,2025-10-03,Pune,Retail Store,Laptop,Electronics,2,52000,0.0,104000.0,78000,26000.0
+ORD0006,2025-10-04,Pune,Retail Store,Headphones,Electronics,4,2200,0.0,8800.0,4400,4400.0
+ORD0022,2025-10-05,Hyderabad,Marketplace,Headphones,Electronics,2,2200,0.0,4400.0,2200,2200.0
+ORD0131,2025-10-10,Hyderabad,Marketplace,Backpack,Accessories,2,1800,0.15,3060.0,1700,1360.0
+ORD0177,2025-10-12,Delhi,Online,Backpack,Accessories,1,1800,0.05,1710.0,850,860.0
+ORD0011,2025-10-13,Jaipur,Online,Desk Chair,Furniture,5,7500,0.15,31875.0,24000,7875.0
+ORD0045,2025-10-14,Jaipur,Retail Store,Phone,Electronics,1,28000,0.15,23800.0,21000,2800.0
+ORD0288,2025-10-15,Chennai,Online,Desk Chair,Furniture,3,7500,0.0,22500.0,14400,8100.0
+ORD0243,2025-10-18,Kolkata,Marketplace,Laptop,Electronics,1,52000,0.1,46800.0,39000,7800.0
+ORD0094,2025-10-20,Bengaluru,Online,Water Bottle,Home,4,650,0.0,2600.0,1080,1520.0
+ORD0009,2025-10-20,Delhi,Retail Store,Laptop,Electronics,4,52000,0.05,197600.0,156000,41600.0
+ORD0028,2025-10-24,Hyderabad,Marketplace,Phone,Electronics,4,28000,0.15,95200.0,84000,11200.0
+ORD0107,2025-10-24,Pune,Online,Coffee Mug,Home,2,350,0.0,700.0,280,420.0
+ORD0117,2025-10-25,Pune,Marketplace,Desk Chair,Furniture,2,7500,0.15,12750.0,9600,3150.0
+ORD0127,2025-10-26,Kolkata,Online,Desk Chair,Furniture,2,7500,0.0,15000.0,9600,5400.0
+ORD0057,2025-10-26,Chennai,Retail Store,Laptop,Electronics,1,52000,0.1,46800.0,39000,7800.0
+ORD0248,2025-10-26,Hyderabad,Marketplace,Phone,Electronics,1,28000,0.15,23800.0,21000,2800.0
+ORD0231,2025-10-28,Hyderabad,Marketplace,Pen Pack,Stationery,3,180,0.05,513.0,210,303.0
+ORD0018,2025-10-30,Bengaluru,Marketplace,Coffee Mug,Home,1,350,0.05,332.5,140,192.5
+ORD0198,2025-11-03,Pune,Marketplace,Notebook,Stationery,2,120,0.1,216.0,90,126.0
+ORD0271,2025-11-06,Chennai,Retail Store,Pen Pack,Stationery,3,180,0.15,459.0,210,249.0
+ORD0145,2025-11-06,Hyderabad,Retail Store,Coffee Mug,Home,2,350,0.05,665.0,280,385.0
+ORD0082,2025-11-08,Bengaluru,Online,Headphones,Electronics,3,2200,0.15,5610.0,3300,2310.0
+ORD0058,2025-11-09,Bengaluru,Retail Store,Notebook,Stationery,2,120,0.1,216.0,90,126.0
+ORD0075,2025-11-09,Chennai,Online,Backpack,Accessories,5,1800,0.0,9000.0,4250,4750.0
+ORD0138,2025-11-10,Jaipur,Marketplace,Laptop,Electronics,1,52000,0.05,49400.0,39000,10400.0
+ORD0089,2025-11-13,Hyderabad,Online,Laptop,Electronics,1,52000,0.0,52000.0,39000,13000.0
+ORD0265,2025-11-13,Pune,Retail Store,Pen Pack,Stationery,4,180,0.15,612.0,280,332.0
+ORD0017,2025-11-14,Chennai,Retail Store,Mouse,Electronics,2,900,0.0,1800.0,840,960.0
+ORD0235,2025-11-16,Delhi,Marketplace,Notebook,Stationery,1,120,0.15,102.0,45,57.0
+ORD0283,2025-11-17,Mumbai,Retail Store,Desk Chair,Furniture,5,7500,0.05,35625.0,24000,11625.0
+ORD0162,2025-11-17,Bengaluru,Marketplace,Laptop,Electronics,4,52000,0.15,176800.0,156000,20800.0
+ORD0220,2025-11-18,Kolkata,Marketplace,Laptop,Electronics,2,52000,0.1,93600.0,78000,15600.0
+ORD0092,2025-11-18,Jaipur,Marketplace,Backpack,Accessories,5,1800,0.05,8550.0,4250,4300.0
+ORD0160,2025-11-20,Kolkata,Marketplace,Backpack,Accessories,3,1800,0.1,4860.0,2550,2310.0
+ORD0080,2025-11-21,Jaipur,Marketplace,Water Bottle,Home,1,650,0.05,617.5,270,347.5
+ORD0060,2025-11-21,Jaipur,Marketplace,Coffee Mug,Home,1,350,0.0,350.0,140,210.0
+ORD0257,2025-11-23,Mumbai,Retail Store,Headphones,Electronics,1,2200,0.1,1980.0,1100,880.0
+ORD0191,2025-11-24,Hyderabad,Online,Pen Pack,Stationery,1,180,0.1,162.0,70,92.0
+ORD0219,2025-11-25,Chennai,Marketplace,Notebook,Stationery,1,120,0.1,108.0,45,63.0
+ORD0125,2025-11-26,Pune,Marketplace,Notebook,Stationery,1,120,0.15,102.0,45,57.0
+ORD0056,2025-11-28,Delhi,Marketplace,Desk Chair,Furniture,4,7500,0.0,30000.0,19200,10800.0
+ORD0124,2025-11-29,Hyderabad,Marketplace,Pen Pack,Stationery,4,180,0.15,612.0,280,332.0
+ORD0133,2025-11-29,Mumbai,Online,Notebook,Stationery,1,120,0.0,120.0,45,75.0
+ORD0252,2025-11-30,Jaipur,Marketplace,Laptop,Electronics,2,52000,0.05,98800.0,78000,20800.0
+ORD0175,2025-12-01,Delhi,Online,Water Bottle,Home,2,650,0.0,1300.0,540,760.0
+ORD0169,2025-12-01,Pune,Online,Mouse,Electronics,2,900,0.05,1710.0,840,870.0
+ORD0087,2025-12-03,Mumbai,Online,Pen Pack,Stationery,2,180,0.0,360.0,140,220.0
+ORD0013,2025-12-04,Bengaluru,Retail Store,Notebook,Stationery,4,120,0.05,456.0,180,276.0
+ORD0213,2025-12-09,Mumbai,Retail Store,Desk Chair,Furniture,1,7500,0.05,7125.0,4800,2325.0
+ORD0253,2025-12-10,Chennai,Marketplace,Notebook,Stationery,3,120,0.05,342.0,135,207.0
+ORD0076,2025-12-13,Kolkata,Online,Water Bottle,Home,1,650,0.0,650.0,270,380.0
+ORD0170,2025-12-13,Delhi,Retail Store,Laptop,Electronics,1,52000,0.0,52000.0,39000,13000.0
+ORD0083,2025-12-13,Hyderabad,Retail Store,Pen Pack,Stationery,2,180,0.0,360.0,140,220.0
+ORD0077,2025-12-14,Mumbai,Online,Notebook,Stationery,1,120,0.15,102.0,45,57.0
+ORD0185,2025-12-14,Delhi,Retail Store,Headphones,Electronics,5,2200,0.1,9900.0,5500,4400.0
+ORD0159,2025-12-15,Mumbai,Online,Pen Pack,Stationery,1,180,0.15,153.0,70,83.0
+ORD0184,2025-12-16,Chennai,Marketplace,Desk Chair,Furniture,2,7500,0.0,15000.0,9600,5400.0
+ORD0004,2025-12-17,Delhi,Online,Coffee Mug,Home,1,350,0.15,297.5,140,157.5
+ORD0196,2025-12-17,Delhi,Retail Store,Coffee Mug,Home,4,350,0.05,1330.0,560,770.0
+ORD0063,2025-12-17,Hyderabad,Retail Store,Coffee Mug,Home,1,350,0.05,332.5,140,192.5
+ORD0137,2025-12-22,Kolkata,Online,Backpack,Accessories,1,1800,0.1,1620.0,850,770.0
+ORD0199,2025-12-25,Delhi,Marketplace,Desk Chair,Furniture,2,7500,0.1,13500.0,9600,3900.0
+ORD0136,2025-12-26,Kolkata,Retail Store,Phone,Electronics,1,28000,0.05,26600.0,21000,5600.0
+ORD0299,2025-12-26,Chennai,Retail Store,Water Bottle,Home,1,650,0.15,552.5,270,282.5
+ORD0091,2025-12-28,Delhi,Online,Laptop,Electronics,2,52000,0.15,88400.0,78000,10400.0
+ORD0002,2025-12-28,Delhi,Online,Backpack,Accessories,2,1800,0.0,3600.0,1700,1900.0
+ORD0174,2025-12-29,Pune,Retail Store,Desk Chair,Furniture,2,7500,0.0,15000.0,9600,5400.0
+ORD0099,2025-12-30,Mumbai,Online,Water Bottle,Home,2,650,0.0,1300.0,540,760.0
+ORD0167,2025-12-30,Bengaluru,Retail Store,Desk Chair,Furniture,1,7500,0.0,7500.0,4800,2700.0
+ORD0140,2025-12-31,Hyderabad,Retail Store,Headphones,Electronics,3,2200,0.0,6600.0,3300,3300.0
